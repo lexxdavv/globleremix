@@ -1,2 +1,2 @@
-import Globe from 'globe.gl';
+//import Globe from 'globe.gl';
 
